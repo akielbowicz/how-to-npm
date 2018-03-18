@@ -1,0 +1,25 @@
+{
+  "name": "@sasha/manage_packages_with_npm",
+  "version": "1.0.2",
+  "description": "Project for learn how to use npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "sasha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akielbowicz/how-to-npm.git"
+  },
+  "keywords": [
+    "freeCodeCamp",
+    "npm",
+    "how-to"
+  ],
+  "bugs": {
+    "url": "https://github.com/akielbowicz/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/akielbowicz/how-to-npm#readme",
+  "dependencies": {}
+}
